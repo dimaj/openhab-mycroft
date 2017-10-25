@@ -1,1 +1,1 @@
-Found the following items: Lighting {{light_items}}. Switchable: {{switch_items}}. Temperature: {{temp_items}}. humidity: {{humidity_items}}.
+Found the following items: {{items}}
